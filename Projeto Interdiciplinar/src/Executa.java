@@ -218,13 +218,6 @@ public class Executa {
                 }
         }while(opt!=9);
         //FIM!
-        JOptionPane.showMessageDialog(null, "Projeto Desenvolvido por\n\n"+
-        "Jonata Campos Monteiro - 26612135\n"+
-        "Kilder Augusto da Silva Sousa - 26503689\n"+
-        "Luiz Nakaoshi Junior - 26615533\n"+
-        "Matheus Dias da Silva - 26671573\n"+
-        "Rodrigo Simon Arroyo Junior - 26244128\n"+
-        "Rodrigo Veras de Almeida - 28183932");
         JOptionPane.showMessageDialog(null, "Fim do Programa!");
     }   
 }
